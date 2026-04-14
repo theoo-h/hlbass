@@ -10,7 +10,7 @@ You'll need MSYS2 + MinGW — grab them at https://www.msys2.org/
 
 ### BASS / BASS-MIX
 
-Can't include these here (copyright), so download them manually from https://www.un4seen.com/ and drop them in this folder.
+Can't include these here (copyright), so download them manually from https://www.un4seen.com/ and drop them in `lib/`
 
 You'll need:
 
