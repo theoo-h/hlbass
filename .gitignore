@@ -1,0 +1,6 @@
+hlbass.hdll
+hlbass.lib
+
+lib/*
+
+test/out/*

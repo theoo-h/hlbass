@@ -1,0 +1,8 @@
+-cp src
+
+--main Main
+
+-hl out/test.hl
+-lib hlbass
+
+--cmd hl out/test.hl
